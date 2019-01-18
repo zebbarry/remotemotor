@@ -5,23 +5,21 @@
  *  @note Defines motor control
  */
 
-#include <stdio.h>
 #include "system.h"
-#include "pio.h"
 
  void motor_init(void)
  {
-     continue
+     continue;
  }
 
 
  void motor_on(void)
  {
-     continue
+     continue;
  }
 
 
  void motor_off(void)
  {
-     continue
+     continue;
  }
